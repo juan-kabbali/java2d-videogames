@@ -4,7 +4,6 @@
 
 ## [Jake el comelon](JakeElComelon)
 
-
 <div style="text-align: center;">
     <img src="JakeElComelon/jake.gif" width="8%"/>
     <img src="JakeElComelon/Choco.png" width="8%"/>
@@ -36,3 +35,36 @@ The objective is to dodge or catch various objects falling from the top of the s
 
 ##### Game Over:
 - The game ends automatically if Jake is hit twice by any of the dangerous objects.
+
+---
+
+## [The ambitious robot](AmbitiousRobot)
+
+<div style="text-align: center;">
+    <img src="AmbitiousRobot/icono.png" width="8%"/>
+    <img src="AmbitiousRobot/robot.gif" width="8%"/>
+    &nbsp;&nbsp;<img src="AmbitiousRobot/Moneda.png" width="3%"/>
+</div>
+
+
+
+##### How to Play:
+You control the **"Ambitious Robot"** who must catch all valuable items and dodge certain objects. 
+If the **"Ambitious Robot"** picks up some of the following valuable objects, you get a point:
+
+  - 💎 Silver Gem
+  - 🟨 Gold Bar
+  - 🟩 Green Gem
+  - 🟡 Coin
+  - 💎 Diamond
+
+- But if the **"Ambitious Robot"** is hit by a harmful object two times, the game will be over.
+
+##### Harmful Objects:
+- 🚀 Missile
+- 🪚 Saw Blade
+- 🎁 Explosive Gift
+- 💣 Bomb
+
+##### Game Over:
+The game ends automatically if the **"Ambitious Robot"** is hit twice by any harmful object.
