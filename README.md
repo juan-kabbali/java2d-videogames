@@ -2,6 +2,10 @@
 
 2d mini-games developed in java using apache netbeans ide
 
+## Table of Contents
+- [jake el comelon](#Jake el comelon)
+- [the ambitious robot](#the-ambitious-robot)
+
 ## [Jake el comelon](JakeElComelon)
 
 <div style="text-align: center;">
@@ -46,8 +50,6 @@ The objective is to dodge or catch various objects falling from the top of the s
     &nbsp;&nbsp;<img src="AmbitiousRobot/Moneda.png" width="3%"/>
 </div>
 
-
-
 ##### How to Play:
 You control the **"Ambitious Robot"** who must catch all valuable items and dodge certain objects. 
 If the **"Ambitious Robot"** picks up some of the following valuable objects, you get a point:
@@ -68,3 +70,42 @@ If the **"Ambitious Robot"** picks up some of the following valuable objects, yo
 
 ##### Game Over:
 The game ends automatically if the **"Ambitious Robot"** is hit twice by any harmful object.
+
+---
+
+# [Four Elements](FourElements)
+
+##### How to Run:
+To play the game, you can either:
+- Open the project folder from NetBeans
+- Execute the `.jar` file directly
+
+#### Game Instructions
+The game consists of pressing the correct arrow key just when the moving arrow is over the static arrow. This action will either earn or lose points and lives, depending on the type of arrow.
+
+### Arrow Types:
+- **White Arrows:**
+  - Gain 10 points if captured.
+  - Lose one life if missed.
+
+- **Red Arrows:**
+  - Must be avoided! If captured, you:
+    - Lose one life
+    - Lose 20 points
+
+- **Golden Arrows:**
+  - Gain 1 life and 10 points if captured.
+  - Lose one life if missed.
+
+## Game Rules:
+- The player starts with **5 lives**.
+- Every **1500 points**, the player levels up.
+- There are **4 levels**:
+  1. Water
+  2. Air
+  3. Earth
+  4. Fire
+- **Winning Condition:**
+  - Survive through all 4 levels to win the game.
+- **Losing Condition:**
+  - If all lives are lost, the game is over.
