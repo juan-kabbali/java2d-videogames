@@ -2,10 +2,6 @@
 
 2d mini-games developed in java using apache netbeans ide
 
-## Table of Contents
-- [jake el comelon](#Jake el comelon)
-- [the ambitious robot](#the-ambitious-robot)
-
 ## [Jake el comelon](JakeElComelon)
 
 <div style="text-align: center;">
